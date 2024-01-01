@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f73d2b95.css",
+    "main.js": "/static/js/main.18641f7b.js",
+    "static/media/mebli-site.png": "/static/media/mebli-site.d546b5ee7bc1ca8a66f4.png",
+    "static/media/desire-site.png": "/static/media/desire-site.5f0e0a1b9dad4fb0d5a2.png",
+    "static/media/candle-site.png": "/static/media/candle-site.05f743371e81eac91939.png",
+    "static/media/expoform-site.png": "/static/media/expoform-site.be5168684c5cd167dc67.png",
+    "static/media/goTrip-site.png": "/static/media/goTrip-site.6c74a59e137aa0825af7.png",
+    "static/media/pizza-site.png": "/static/media/pizza-site.892aff2e79486eb506c4.png",
+    "static/media/game-shop.png": "/static/media/game-shop.63eca26b7b0e25706f71.png",
+    "static/media/main-bg.jpg": "/static/media/main-bg.96fb81b08178b2f7488f.jpg",
+    "static/media/bg-image-code.jpeg": "/static/media/bg-image-code.c5d5166f943e8a4a9d92.jpeg",
+    "static/media/bg-phone.png": "/static/media/bg-phone.088687f953da3232e42e.png",
+    "static/media/work-place.webp": "/static/media/work-place.62b47e7f183d4b4e9feb.webp",
+    "static/media/avatar.jpg": "/static/media/avatar.60ca61104e08abe20232.jpg",
+    "static/media/notebook.png": "/static/media/notebook.0a29c980d5a9fd4e3b1e.png",
+    "static/media/developer.jpg": "/static/media/developer.13df72209f6a72901e38.jpg",
+    "static/media/icons-4.png": "/static/media/icons-4.99ee780f26cc58bbf610.png",
+    "static/media/icons-3.png": "/static/media/icons-3.41c1ff08208907edcc72.png",
+    "static/media/work-man.png": "/static/media/work-man.c5325f52b5be329995a5.png",
+    "static/media/rotate-text.svg": "/static/media/rotate-text.3d5aa6ba2d0632bb4e0572631c3f9dc2.svg",
+    "static/media/icons-2.svg": "/static/media/icons-2.621929cb75c6f13515cfd8de5b4de81e.svg",
+    "static/media/icons.svg": "/static/media/icons.baf760ccf6c222118ba2717d4d707cc0.svg",
+    "index.html": "/index.html",
+    "static/media/instagram.svg": "/static/media/instagram.9bb90fb0f47fe669c9e3ed34321ee498.svg",
+    "static/media/sunny.svg": "/static/media/sunny.c4c57930149695438da2.svg",
+    "static/media/moon.svg": "/static/media/moon.f6dae0f28f2befe17cfd.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.f9b139006000daf4fb2908c3a8543294.svg",
+    "static/media/facebook.svg": "/static/media/facebook.12d651b74675769d715c4e322f29aba4.svg",
+    "main.f73d2b95.css.map": "/static/css/main.f73d2b95.css.map",
+    "main.18641f7b.js.map": "/static/js/main.18641f7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f73d2b95.css",
+    "static/js/main.18641f7b.js"
+  ]
+}
